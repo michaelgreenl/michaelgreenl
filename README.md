@@ -3,7 +3,7 @@
 > I build secure, scalable web applications with a focus on reactive UIs and robust backend architecture.
 
 ## 🔗 Links
-- 🌍 **Portfolio:** [michaelgreen.net](https://michaelgreen.net)
+- 🌍 **Portfolio:** [michaelgreen.net](https://michaelgreenl.net)
 - 💼 **LinkedIn:** [linkedin.com/in/michaelgreen5](https://linkedin.com/in/michaelgreen5)
 - 📧 **Contact:** greenmichael5000@gmail.com
 
