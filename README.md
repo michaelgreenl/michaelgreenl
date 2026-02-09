@@ -1,5 +1,5 @@
 # Hi 👋, I'm Michael Green 
-### Full-Stack Developer 
+### Software Engineer 
 > I build secure, scalable web applications with a focus on reactive UIs and robust backend architecture.
 
 ## 🔗 Links
