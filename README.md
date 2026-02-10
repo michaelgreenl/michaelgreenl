@@ -1,6 +1,6 @@
 # Hi 👋, I'm Michael Green 
 ### Software Engineer 
-> I build secure, scalable web applications with a focus on reactive UIs and robust backend architecture.
+> I build secure, scalable applications with a focus on intuitive UIs and robust backend architecture.
 
 ## 🔗 Links
 - 🌍 **Portfolio:** [michaelgreenl.net](https://michaelgreenl.net)
@@ -8,6 +8,9 @@
 - 📧 **Contact:** greenmichael5000@gmail.com
 
 ## 🚀 Featured Projects
+**[Tally Tracker](https://github.com/michaelgreenl/tally-tracker-client)** _(wip)_
+> A cross-platform offline-first application utilizing a custom synchronization queue for network resilience, featuring real-time shared counters and native deep linking integration.
+
 **[Reaction](https://github.com/michaelgreenl/reaction-client)**
 > A precision-focused cognitive training application that gamifies reaction time improvement through high-performance animations and detailed game metrics.
 
@@ -18,10 +21,11 @@
 > An interactive educational platform that visualizes complex algorithms and data structures with high-performance, synchronized, step-by-step animations.
 
 ## 🛠️ Skills
-**Languages** - JavaScript (ES6+), SQL, Python, Java, C, HTML/CSS, Sass
+**Languages** - Typescript, JavaScript (ES6+), SQL, Python, Java, C/C++, HTML/CSS, Sass
 
-**Frameworks & Libraries** - Node, Vue, Nuxt, React, Express, Socket.IO, GSAP
+**Frameworks & Libraries** - Node, Vue, Nuxt, Ionic, React, Express, Socket.IO, GSAP
 
 **Tools & Databases** - Git, Bash, REST APIs, JWT, PostgreSQL, MySQL, Prisma, Sequelize
 
 **Infrastructure** - Docker, Render, Github Pages, Github Actions, Vercel
+
