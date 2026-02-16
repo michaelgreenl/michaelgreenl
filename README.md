@@ -1,6 +1,6 @@
 # Hi 👋, I'm Michael Green 
 ### Software Engineer 
-> I build secure, scalable applications with a focus on intuitive UIs and robust backend architecture.
+> I build secure, scalable applications that combine elegant, intuitive UIs with robust, maintainable backend architecture.
 
 ## 🔗 Links
 - 🌍 **Portfolio:** [michaelgreenl.net](https://michaelgreenl.net)
