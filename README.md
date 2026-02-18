@@ -25,7 +25,7 @@
 
 **Frameworks & Libraries** - Node, Vue, Nuxt, Ionic, Capacitor, React, Express, Socket.IO, GSAP, Cypress, Vitest
 
-**Tools & Databases** - Git, Bash, REST APIs, JWT, PostgreSQL, MySQL, Prisma, Sequelize
+**Tools & Databases** - Git, Bash, REST APIs, JWT, PostgreSQL, MySQL, Prisma, Sequelize, Zod
 
 **Infrastructure** - Docker, Render, Github Pages, Github Actions, Vercel
 
