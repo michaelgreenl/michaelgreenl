@@ -23,7 +23,7 @@
 ## 🛠️ Skills
 **Languages** - Typescript, JavaScript (ES6+), SQL, Python, Java, C/C++, HTML/CSS, Sass
 
-**Frameworks & Libraries** - Node, Vue, Nuxt, Ionic, Capacitor, React, Express, Socket.IO, GSAP
+**Frameworks & Libraries** - Node, Vue, Nuxt, Ionic, Capacitor, React, Express, Socket.IO, GSAP, Cypress, Vitest
 
 **Tools & Databases** - Git, Bash, REST APIs, JWT, PostgreSQL, MySQL, Prisma, Sequelize
 
