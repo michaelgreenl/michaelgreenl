@@ -17,9 +17,6 @@
 **[GameLobby](https://github.com/michaelgreenl/game-lobby)**
 > A real-time multiplayer application featuring a live lobby system via Socket.IO, secured by JWTs and supported by Prisma for persistent match history.
 
-**[AlgoVisualizer](https://github.com/michaelgreenl/AlgoVisualizer)** 
-> An interactive educational platform that visualizes complex algorithms and data structures with high-performance, synchronized, step-by-step animations.
-
 ## 🛠️ Skills
 **Languages** - Typescript, JavaScript (ES6+), SQL, Python, Java, C/C++, HTML/CSS, Sass
 
