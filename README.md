@@ -8,7 +8,7 @@
 - 📧 **Contact:** greenmichael5000@gmail.com
 
 ## 🚀 Featured Projects
-**[Tally Tracker](https://github.com/michaelgreenl/tally-tracker)** _(wip/mvp)_
+**[Tally Tracker](https://github.com/michaelgreenl/tally-tracker)** _(mvp)_
 > A cross-platform offline-first application utilizing a custom synchronization queue for network resilience, featuring real-time shared counters and native deep linking integration.
 
 **[Reaction](https://github.com/michaelgreenl/reaction-client)**
