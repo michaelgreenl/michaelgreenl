@@ -4,7 +4,6 @@
 
 ## 🔗 Links
 - 🌍 **Portfolio:** [michaelgreenl.net](https://michaelgreenl.net)
-- 💼 **LinkedIn:** [linkedin.com/in/michaelgreen5](https://linkedin.com/in/michaelgreen5)
 - 📧 **Contact:** greenmichael5000@gmail.com
 
 ## 🚀 Featured Projects
