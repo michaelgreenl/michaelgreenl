@@ -2,7 +2,7 @@
 
 ### Software Engineer
 
-> Clean, maintainable code. Slowly but surely getting agents to follow suit.
+> Clean, maintainable code, and agents to follow suit.
 
 ## 🔗 Links
 
