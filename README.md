@@ -9,7 +9,7 @@
 - 🌍 **Portfolio:** [michaelgreenl.net](https://michaelgreenl.net)
 - 📧 **Contact:** greenmichael5000@gmail.com
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 **[Email Filter](https://github.com/michaelgreenl/email-filter)**
 
@@ -22,10 +22,6 @@
 **[Reaction](https://github.com/michaelgreenl/reaction-client)**
 
 > A precision-focused cognitive training application that gamifies reaction time improvement through high-performance animations and detailed game metrics.
-
-**[GameLobby](https://github.com/michaelgreenl/game-lobby)**
-
-> A real-time multiplayer application featuring a live lobby system via Socket.IO, secured by JWTs and supported by Prisma for persistent match history.
 
 ## 🛠️ Skills
 
